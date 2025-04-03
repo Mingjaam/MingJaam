@@ -1,6 +1,6 @@
 <!-- 헤더 이미지 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/header.png" alt="Header Image">
+  <img src="https://raw.githubusercontent.com/MingJaam/MingJaam/main/header.png" alt="Header Image">
 </p>
 
 <h1 align="center">👋 안녕하세요! 저는 김민재입니다.</h1>
@@ -28,9 +28,9 @@
 
 ## 📊 GitHub 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MingJaam&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=MingJaam&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ## 📫 연락처
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/MingJaam">
     <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://instagram.com/your-id">
