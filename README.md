@@ -1,7 +1,4 @@
-<!-- 헤더 이미지 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MingJaam/MingJaam/main/header.png" alt="Header Image">
-</p>
+
 
 <h1 align="center">👋 안녕하세요! 저는 김민재입니다.</h1>
 
