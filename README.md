@@ -8,7 +8,7 @@
 <p align="center">
   🚀 Flutter & PocketBase 개발 | 🎯 감정 기반 메모 앱 개발 중  
   <br>
-  📚 기술 스택: Flutter, Dart, Firebase, PocketBase  
+  📚 기술 스택: Flutter, Dart, Firebase, PocketBase, Java, Python, C, C++, HTML, CSS, JavaScript  
   <br>
   🌱 최근 관심사: AI 기반 추천 시스템, AR 기술
 </p>
@@ -17,11 +17,7 @@
 
 ## 📌 기술 스택
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PocketBase-FF6F00?style=flat&logo=pocketbase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,pocketbase,java,python,c,cpp,html,css,js" />
 </p>
 
 ---
