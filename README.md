@@ -72,8 +72,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mingjaam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mingjaam&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakNum=6366F1&sideNums=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&dates=6366F1)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingjaam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
