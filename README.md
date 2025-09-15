@@ -128,7 +128,7 @@
 <tr>
 <td align="center" width="33%">
   <h4>🏢 Intume 스타트업</h4>
-  <p><strong>프론트엔드 개발자</strong></p>
+  <p><strong>풀스택택 개발자</strong></p>
   <p>2025.04 ~ 현재</p>
   <img src="https://img.shields.io/badge/스타트업-FF6B6B?style=flat&logo=startup&logoColor=white"/>
 </td>
